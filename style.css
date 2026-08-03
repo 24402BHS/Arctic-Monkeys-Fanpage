@@ -1,0 +1,11 @@
+.hero-image {
+    background-image: url("heroimage.jpg");
+    height: 352px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* Add these 3 lines to center your "My Scotland" text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
